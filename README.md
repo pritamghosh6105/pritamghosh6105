@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Pritam Ghosh, a B.Tech student and aspiring Full Stack Developer passionate about building modern web applications and solving real-world problems through technology.<br><br>I have experience working with:<br><br>🌐 Frontend Development (HTML, CSS, JavaScript, React.js)<br>⚙️ Backend Development (PHP, Node.js)<br>🗄️ Databases (MySQL, MongoDB)<br>☕ Java Programming<br>🐍 Python Programming<br>📊 Data Structures & Algorithms<br>🚀 Full Stack Web Development<br><br>I enjoy developing projects that combine attractive user interfaces with powerful backend functionality. My goal is to continuously improve my skills and build impactful software solutions.
 
 
